@@ -51,7 +51,7 @@ p {
   display: grid;
   grid-template-columns: 25rem;
   grid-template-rows: 28rem 30rem;
-transform:scale(1.1);
+transform:scale(1.3);
   overflow: hidden;
   border-radius: 10px;
 }
