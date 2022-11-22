@@ -160,6 +160,7 @@ img {
     overflow: hidden;
     border-radius: 10px;
     column-gap: 0;
+transform:scale(1.05);
   }
 
   .price {
